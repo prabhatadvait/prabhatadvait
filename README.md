@@ -78,9 +78,6 @@ I’m always open to collaboration, discussions, and learning from others. Feel 
 - 🔗 **LinkedIn**: [https://www.linkedin.com/in/prabhat-kumar-1260a5259/](https://www.linkedin.com/in/prabhat-kumar-1260a5259/)
 
 ## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
 ---
 
 Thanks for stopping by my profile! If you're interested in collaborating or have any questions, don’t hesitate to reach out. Let’s build something amazing together! 🚀😊
