@@ -1,19 +1,17 @@
 <div align="center">
-  <h1 style="font-size: 3rem; color: #ff6600; font-family: 'Arial, Helvetica, sans-serif'; font-weight: bold;">
-    👋 Welcome, I'm <span style="color: #FF4500;"><b>Prabhat Kumar</b></span>!
-  </h1>
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text=Welcome%2C%20I'm%20Prabhat%20Kumar!&width=800&height=200" alt="Welcome, I'm Prabhat Kumar!" />
 </div>
 
-# 🚀 Hi There! 🌟
+# 👋 **Hi There! Welcome to My GitHub Profile** 🎉
 
 I am a **Computer Science** student specializing in **Data Science**, with a passion for **Machine Learning**, **Artificial Intelligence**, and **Data Analysis**. As a **Full Stack Developer**, I love combining my technical skills to create data-driven solutions and intelligent systems.
 
 ---
 
-## 🚀 **About Me**  
+## 🚀 **About Me**
 
 🎯 **Machine Learning & AI Enthusiast**:  
-- Building data-driven solutions using **Deep Learning**, **NLP**, and **Computer Vision**.  
+- Building data-driven solutions using **Deep Learning**, **NLP**, and **Computer Vision**.
 
 💻 **Full Stack Developer**:  
 - Developing scalable **frontend** and **backend** systems using **React**, **Node.js**, and more.
