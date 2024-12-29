@@ -24,7 +24,9 @@ I am a **Computer Science** student specializing in **Data Science**, with a pas
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=keras&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)  
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![LLM](https://img.shields.io/badge/-LLM-5A45FF?logo=openai&logoColor=white)  
 **Skills**: Machine Learning 🧠, Neural Networks 🌊, NLP 🗣️, Computer Vision 📷, EDA 📈
 
 ### **Full Stack Development**:
@@ -67,7 +69,8 @@ I am a **Computer Science** student specializing in **Data Science**, with a pas
 
 ## 📊 **GitHub Stats**
 
-![Prabhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhatadvait&show_icons=true&theme=radical)
+![Prabhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhatadvait&show_icons=true&theme=radical&include_all_commits=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatadvait&layout=compact&langs_count=10&theme=radical)
 
 ---
 
