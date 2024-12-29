@@ -1,5 +1,7 @@
 <div align="center">
-  <img src="https://svg-banners.vercel.app/api?type=glitch&text=Welcome%2C%20I'm%20Prabhat%20Kumar!&width=800&height=200" alt="Welcome, I'm Prabhat Kumar!" />
+  <h1 style="color: #FF4500; font-family: Arial, sans-serif; font-weight: bold;">
+    👋 Welcome, I'm <span style="color: #0078D7;">Prabhat Kumar</span>!
+  </h1>
 </div>
 
 # 👋 **Hi There! Welcome to My GitHub Profile** 🎉
