@@ -1,5 +1,10 @@
-# 👋 Hi, I'm **Prabhat Kumar**!  
-Welcome to my GitHub Profile! 🎉
+<div align="center">
+  <h1 style="font-size: 3rem; color: #ff6600; font-family: 'Arial, Helvetica, sans-serif'; font-weight: bold;">
+    👋 Welcome, I'm <span style="color: #FF4500;"><b>Prabhat Kumar</b></span>!
+  </h1>
+</div>
+
+# 🚀 Hi There! 🌟
 
 I am a **Computer Science** student specializing in **Data Science**, with a passion for **Machine Learning**, **Artificial Intelligence**, and **Data Analysis**. As a **Full Stack Developer**, I love combining my technical skills to create data-driven solutions and intelligent systems.
 
