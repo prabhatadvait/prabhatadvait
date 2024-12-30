@@ -1,7 +1,5 @@
 <div align="center">
-  <h1 style="color: #FF4500; font-family: Arial, sans-serif; font-weight: bold;">
-    👋 Welcome, I'm <span style="color: #0078D7;">Prabhat Kumar</span>!
-  </h1>
+  <h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">&nbsp;Hi, This is Prabhat Kumar.&nbsp;<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 </div>
 <div>
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
