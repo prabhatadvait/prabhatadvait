@@ -17,7 +17,7 @@ I am a **Computer Science** student specializing in **Data Science**, with a pas
 - Building data-driven solutions using **Deep Learning**, **NLP**, and **Computer Vision**.
 
 💻 **Full Stack Developer**:  
-- Developing scalable **frontend** and **backend** systems using **React**, **Node.js**, and more.
+- Developing scalable **frontend** and **backend** systems using **React**, **Next.js**, and more.
 
 📊 **Data Science Expert**:  
 - Skilled in **EDA**, **Data Visualization**, and **Predictive Modeling**.
@@ -39,7 +39,7 @@ I am a **Computer Science** student specializing in **Data Science**, with a pas
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-**Skills**: HTML 🔶, CSS 🎨, JavaScript 💻, Flask 🐍, Express 🛠️
+**Skills**: HTML 🔶, CSS 🎨, JavaScript 💻, Flask 🐍, Nextjs 🛠️
 
 ### **Tools & Technologies**:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
