@@ -7,17 +7,17 @@
 
 # 👋 **Hi There! Welcome to My GitHub Profile** 🎉
 
-I am a **Computer Science** student specializing in **Data Science**, with a passion for **Machine Learning**, **Artificial Intelligence**, and **Data Analysis**. As a **Full Stack Developer**, I love combining my technical skills to create data-driven solutions and intelligent systems.
+I’m a **Computer Science** student specializing in **Data Science**, passionate about **Full Stack Development**, **Machine Learning**, and **AI**. I thrive on building scalable, data-driven **web applications** and intelligent systems using modern tools like **Next.js**, GoLang, and **Docker**.
 
 ---
 
 ## 🚀 **About Me**
 
+💻 **Full Stack Developer**:  
+- Developing scalable **frontend** and **backend** systems using **React**, **Next.js**, **Springboot** and more.
+
 🎯 **Machine Learning & AI Enthusiast**:  
 - Building data-driven solutions using **Deep Learning**, **NLP**, and **Computer Vision**.
-
-💻 **Full Stack Developer**:  
-- Developing scalable **frontend** and **backend** systems using **React**, **Next.js**, and more.
 
 📊 **Data Science Expert**:  
 - Skilled in **EDA**, **Data Visualization**, and **Predictive Modeling**.
