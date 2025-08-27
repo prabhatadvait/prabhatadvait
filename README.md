@@ -63,16 +63,6 @@ I’m a **Computer Science** student specializing in **Data Science**, passionat
 🎓 Bachelor’s in **Computer Science**, specializing in **Data Science**.  
 🛠️ Hands-on experience in **Machine Learning**, **Deep Learning**, and **Full Stack Development**.
 
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
 
 ## 💬 **Let’s Connect**
 
