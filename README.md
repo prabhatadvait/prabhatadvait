@@ -7,7 +7,7 @@
 
 # 👋 **Hi There! Welcome to My GitHub Profile** 🎉
 
-I’m a **Computer Science** student specializing in **Data Science**, passionate about **Full Stack Development**, **Machine Learning**, and **AI**. I thrive on building scalable, data-driven **web applications** and intelligent systems using modern tools like **Next.js**, GoLang, and **Docker**.
+I’m a **Computer Science** student specializing in **Data Science**, passionate about **Full Stack Development**, **Machine Learning**, and **AI**. I thrive on building scalable, data-driven **web applications** and intelligent systems using modern tools like **SpringBoot**, GoLang, and **Docker**.
 
 ---
 
@@ -17,7 +17,7 @@ I’m a **Computer Science** student specializing in **Data Science**, passionat
 - Developing scalable **frontend** and **backend** systems using **React**, **Next.js**, **Springboot** and more.
 
 🎯 **Machine Learning & AI Enthusiast**:  
-- Building data-driven solutions using **Deep Learning**, **NLP**, and **Computer Vision**.
+- Building data-driven solutions using **Deep Learning**, **NLP**, **Computer Vision** and **LLM**.
 
 📊 **Data Science Expert**:  
 - Skilled in **EDA**, **Data Visualization**, and **Predictive Modeling**.
@@ -46,22 +46,6 @@ I’m a **Computer Science** student specializing in **Data Science**, passionat
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
 **Tools**: Git 🦸‍♂️, VS Code 🔲, Jupyter Notebook 📓, PyCharm 🖥️
-
----
-
-## 📌 **Highlighted Projects**
-- 🔹 **Personal Assistant**: Voice-enabled assistant for daily tasks.  
-- 🔹 **Unity Asset Management DBMS**: Streamlined asset tracking in Unity.  
-- 🔹 **OCR Document System**: Text extraction from images with **Tesseract**.  
-- 🔹 **Grocery Web App**: Full Stack app for managing grocery items.  
-- 🔹 **And Many More...** *(Check my repositories!)*
-
----
-
-## 📚 **Education**
-
-🎓 Bachelor’s in **Computer Science**, specializing in **Data Science**.  
-🛠️ Hands-on experience in **Machine Learning**, **Deep Learning**, and **Full Stack Development**.
 
 
 ## 💬 **Let’s Connect**
