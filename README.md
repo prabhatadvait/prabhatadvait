@@ -59,7 +59,6 @@ I’m a **Computer Science** student specializing in **Data Science**, passionat
 ## 📊 **GitHub Stats**
 
 ![Prabhat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhatadvait&show_icons=true&theme=radical&include_all_commits=true)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatadvait&layout=compact&langs_count=10&theme=radical)
 ![Profile Views](https://komarev.com/ghpvc/?username=prabhatadvait)
 
 ---
