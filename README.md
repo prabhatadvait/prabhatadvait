@@ -22,9 +22,11 @@ pip install prabhatai
 ## Quick Start
 
 ```python
-from prabhatai import PrabhatAI
-client = PrabhatAI(api_key="your_api_key_here")
-response = client.chat("Hello, PrabhatAI!")
+from prabhatai.client import PrabhatAIClient
+client = PrabhatAIClient()
+response = client.chat([
+    {"role": "user", "content": "Hello!"}
+])
 print(response)
 ```
 ---
