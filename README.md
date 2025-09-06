@@ -5,7 +5,7 @@
   <img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
 </div>
 
-# 👋 **Hi There! Welcome to My GitHub Profile** 🎉
+#  **Hi There! Welcome to My GitHub Profile** 
 
 I’m a **Computer Science** student specializing in **Data Science**, passionate about **Full Stack Development**, **Machine Learning**, and **AI**. I thrive on building scalable, data-driven **web applications** and intelligent systems using modern tools like **SpringBoot**, GoLang, and **Docker**.
 
@@ -31,17 +31,17 @@ print(response)
 ```
 ---
 
-## 🚀 **About Me**
+##  **About Me**
 
-💻 **Full Stack Developer**:  
+**Full Stack Developer**:  
 - Developing scalable **frontend** and **backend** systems using **React**, **Next.js**, **Springboot** and more.
 
-🎯 **Machine Learning , AI Enthusiast & Data Science Expert**:  
+**Machine Learning , AI Enthusiast & Data Science Expert**:  
 - Building data-driven solutions using **Deep Learning**, **NLP**, **Computer Vision** and **LLM**, *EDA**, **Data Visualization**, and **Predictive Modeling**.
 - 
 ---
 
-## 🛠️ **Skills**
+##  **Skills**
 
 [![PyPI version](https://badge.fury.io/py/prabhatai.svg)](https://pypi.org/project/prabhatai/)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -80,4 +80,4 @@ print(response)
 
 ---
 
-🌟 Thanks for stopping by! Let’s build something amazing together! 🚀😊
+🌟 Thanks for stopping by! Let’s build something amazing together! 😊
