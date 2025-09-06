@@ -9,6 +9,24 @@
 
 I’m a **Computer Science** student specializing in **Data Science**, passionate about **Full Stack Development**, **Machine Learning**, and **AI**. I thrive on building scalable, data-driven **web applications** and intelligent systems using modern tools like **SpringBoot**, GoLang, and **Docker**.
 
+# PrabhatAI
+
+[![PyPI version](https://badge.fury.io/py/prabhatai.svg)](https://pypi.org/project/prabhatai/)
+## Installation
+
+You can install **PrabhatAI** directly from PyPI:
+```bash
+pip install prabhatai
+```
+
+## Quick Start
+
+```python
+from prabhatai import PrabhatAI
+client = PrabhatAI(api_key="your_api_key_here")
+response = client.chat("Hello, PrabhatAI!")
+print(response)
+```
 ---
 
 ## 🚀 **About Me**
@@ -16,18 +34,12 @@ I’m a **Computer Science** student specializing in **Data Science**, passionat
 💻 **Full Stack Developer**:  
 - Developing scalable **frontend** and **backend** systems using **React**, **Next.js**, **Springboot** and more.
 
-🎯 **Machine Learning & AI Enthusiast**:  
-- Building data-driven solutions using **Deep Learning**, **NLP**, **Computer Vision** and **LLM**.
-
-📊 **Data Science Expert**:  
-- Skilled in **EDA**, **Data Visualization**, and **Predictive Modeling**.
-
+🎯 **Machine Learning , AI Enthusiast & Data Science Expert**:  
+- Building data-driven solutions using **Deep Learning**, **NLP**, **Computer Vision** and **LLM**, *EDA**, **Data Visualization**, and **Predictive Modeling**.
+- 
 ---
 
 ## 🛠️ **Skills**
-
-### **Data Science & AI**:
-# PrabhatAI
 
 [![PyPI version](https://badge.fury.io/py/prabhatai.svg)](https://pypi.org/project/prabhatai/)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
