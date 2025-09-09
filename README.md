@@ -9,13 +9,6 @@
 
 I’m a **Computer Science** student specializing in **Data Science**, passionate about **Full Stack Development**, **Machine Learning**, and **AI**. I thrive on building scalable, data-driven **web applications** and intelligent systems using modern tools like **SpringBoot**, GoLang, and **Docker**.
 
-# **Hi There! Welcome to My GitHub Profile**  
-
-I’m a **Computer Science (Data Science)** student with expertise in **AI, ML, LLMs, and Data Analysis**.  
-I enjoy designing intelligent solutions and building **scalable software systems** with **Spring Boot, Docker, Linux, and GoLang**.  
-Passionate about **Data Science, Full Stack Development, and AI-driven applications**, I thrive on solving complex problems through innovation and clean code.  
-
-
 # PrabhatAI
 
 [![PyPI version](https://badge.fury.io/py/prabhatai.svg)](https://pypi.org/project/prabhatai/)
