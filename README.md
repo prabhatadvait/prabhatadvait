@@ -7,7 +7,8 @@
 
 #  **Hi There! Welcome to My GitHub Profile** 
 
-I’m a **Computer Science** student specializing in **Data Science**, passionate about **Full Stack Development**, **Machine Learning**, and **AI**. I thrive on building scalable, data-driven **web applications** and intelligent systems using modern tools like **SpringBoot**, GoLang, and **Docker**.
+I’m a **Computer Science** student specializing in **Data Science**, passionate about **Full Stack Development**, **Machine Learning**, **AI**, **DL** and **LLM**. I thrive on building scalable, **AI-Driven applications**, **web applications** and intelligent systems using modern tools like **SpringBoot**, GoLang, and **Docker**.
+
 
 # PrabhatAI
 
