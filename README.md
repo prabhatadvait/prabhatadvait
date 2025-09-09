@@ -34,11 +34,12 @@ print(response)
 ##  **About Me**
 
 **Full Stack Developer**:  
-- Developing scalable **frontend** and **backend** systems using **React**, **Next.js**, **Springboot** and more.
+- Developing scalable **frontend** and **backend** systems using **Flask**, **React**, **Next.js**, **Springboot** and more.
 
 **Machine Learning , AI Enthusiast & Data Science Expert**:  
-- Building data-driven solutions using **Deep Learning**, **NLP**, **Computer Vision** and **LLM**, **Langchain**,**Langraph**, **RAG**, **EDA** and **Data Visualization**.
-- 
+- Building data-driven solutions using **Deep Learning**, **NLP**, **Computer Vision** and **LLM**, **Langchain**,
+  **Langraph**, **RAG**, **EDA** and **Data Visualization**.
+  
 ---
 
 ##  **Skills**
