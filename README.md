@@ -10,27 +10,6 @@
 I’m a **Computer Science** student specializing in **Data Science**, passionate about **Full Stack Development**, **Machine Learning**, **AI**, **DL** and **LLM**. I thrive on building scalable, **AI-Driven applications**, **web applications** and intelligent systems using modern tools like **SpringBoot**, GoLang, and **Docker**.
 
 
-# PrabhatAI
-
-[![PyPI version](https://badge.fury.io/py/prabhatai.svg)](https://pypi.org/project/prabhatai/)
-## Installation
-
-You can install **PrabhatAI** directly from PyPI:
-```bash
-pip install prabhatai
-```
-
-## Quick Start
-
-```python
-from prabhatai.client import PrabhatAIClient
-client = PrabhatAIClient()
-response = client.chat([
-    {"role": "user", "content": "Hello!"}
-])
-print(response)
-```
----
 
 ##  **About Me**
 
@@ -52,13 +31,13 @@ print(response)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
 ![LLM](https://img.shields.io/badge/-LLM-5A45FF?logo=openai&logoColor=white)  
-**Skills**: Machine Learning 🧠, Neural Networks 🌊, NLP 🗣️, Computer Vision 📷, EDA 📈
+**Skills**: Machine Learning 🧠, Neural Networks 🌊, NLP 🗣️, LLM,  Computer Vision 📷, EDA 📈
 
 ### **Full Stack Development**:
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)  
-**Skills**: HTML 🔶, CSS 🎨, JavaScript 💻, Flask 🐍, Nextjs 🛠️
+**Skills**: HTML 🔶, CSS 🎨, JavaScript 💻, Flask 🐍, Springboot, Nextjs 🛠️
 
 ### **Tools & Technologies**:
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
@@ -66,6 +45,28 @@ print(response)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
 **Tools**: Git 🦸‍♂️, VS Code 🔲, Jupyter Notebook 📓, PyCharm 🖥️
 
+
+# PrabhatAI
+
+[![PyPI version](https://badge.fury.io/py/prabhatai.svg)](https://pypi.org/project/prabhatai/)
+## Installation
+
+You can install **PrabhatAI** directly from PyPI:
+```bash
+pip install prabhatai
+```
+
+## Quick Start
+
+```python
+from prabhatai.client import PrabhatAIClient
+client = PrabhatAIClient()
+response = client.chat([
+    {"role": "user", "content": "Hello!"}
+])
+print(response)
+```
+---
 
 ## 💬 **Let’s Connect**
 
