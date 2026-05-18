@@ -45,29 +45,6 @@ I’m a **Computer Science** student specializing in **Data Science**, passionat
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
 **Tools**: Git 🦸‍♂️, VS Code 🔲, Jupyter Notebook 📓, PyCharm 🖥️
 
-
-# PrabhatAI
-
-[![PyPI version](https://badge.fury.io/py/prabhatai.svg)](https://pypi.org/project/prabhatai/)
-## Installation
-
-You can install **PrabhatAI** directly from PyPI:
-```bash
-pip install prabhatai
-```
-
-## Quick Start
-
-```python
-from prabhatai.client import PrabhatAIClient
-client = PrabhatAIClient()
-response = client.chat([
-    {"role": "user", "content": "Hello!"}
-])
-print(response)
-```
----
-
 ## 💬 **Let’s Connect**
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prabhatsharma84226@gmail.com)  
