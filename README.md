@@ -73,12 +73,16 @@
 <h2 align="center">📈 GitHub Analytics</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prabhatadvait&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prabhatadvait&theme=tokyonight&hide_border=true&background=0D1117" height="165" alt="GitHub Streak" />
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabhatadvait&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Prabhatadvait)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prabhatadvait&theme=tokyonight&hide_border=true&background=0D1117)](https://github.com/Prabhatadvait)
+
 </div>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatadvait&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165" alt="Top Languages" />
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabhatadvait&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/Prabhatadvait)
+
 </div>
 
 <br>
