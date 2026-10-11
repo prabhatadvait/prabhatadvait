@@ -21,6 +21,7 @@
     <td width="60%">
       <h2>🚀 About Me</h2>
       <p>I’m a <b>Computer Science</b> student specializing in <b>Data Science</b>, deeply passionate about building scalable <b>Web Applications</b> and intelligent <b>AI-Driven Systems</b>.</p>
+      <p>src=https://www.instagram.com/prabhat.byte</p>
       <ul>
         <li>🔭 Currently working on <b>Full Stack Development</b> & <b>LLM Applications</b>.</li>
         <li>🧠 Exploring <b>Deep Learning</b>, <b>NLP</b>, <b>RAG</b>, and <b>Computer Vision</b>.</li>
